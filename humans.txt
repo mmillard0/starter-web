@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    M Millard mmillard0@git.training @awesomemm
 
 # THANKS
 
